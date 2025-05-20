@@ -46,8 +46,9 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![Screenshot 2025-05-06 212913](https://github.com/user-attachments/assets/de041c36-1206-4bff-8010-0718ff87c220)
-![Screenshot 2025-05-06 212932](https://github.com/user-attachments/assets/0e691607-53a7-4d02-987d-a34f77c07f35)
+
+![Screenshot 2025-05-20 102822](https://github.com/user-attachments/assets/90919b61-dcb0-405d-9ed9-9b31fdd0bccf)
+
 ### Name:cholimgapuram sai likitha
 ### Register Number:212224230046
 
